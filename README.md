@@ -1,32 +1,16 @@
-# Getting Started with Create React App
+# 📌 프로젝트명 : News Viewer (2020)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 📎 url : 
 
-## Available Scripts
+![](https://images.velog.io/images/hyerimiya/post/b7812088-8f65-4f1e-875c-e0ed7bcd23af/1.png)
 
-In the project directory, you can run:
 
-### `npm start`
+## ✏ 작품소개
+React Router를 사용해서 만든 뉴스 뷰어(News Viewer)입니다.  
+카테고리에 따라 axios 로 기존에 있는 news api 를 가져와 나타냈습니다.  
+리액트의 라우터와 axios를 통해 api를 가져오는 공부를 하면서 만든 프로젝트입니다.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🖱 작업 툴
+**React**, react-router-dom, axios, styled-components
 
 
